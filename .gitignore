@@ -1,0 +1,9 @@
+/target
+*.pcap
+*.toml
+*.env
+*.py
+*.log
+venv
+!Cargo.toml
+!Cargo.lock
